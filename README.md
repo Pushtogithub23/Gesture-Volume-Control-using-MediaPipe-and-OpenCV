@@ -34,8 +34,7 @@ Ensure that you have **Python 3.x** installed before proceeding.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/hand-gesture-volume-control.git
-   cd hand-gesture-volume-control
+   git clone https://github.com/Pushtogithub23/Gesture-Volume-Control-using-MediaPipe-and-OpenCV.git
    ```
 
 2. Install the required dependencies:
