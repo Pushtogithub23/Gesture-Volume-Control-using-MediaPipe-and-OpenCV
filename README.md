@@ -165,8 +165,8 @@ cv.destroyAllWindows()
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hand-gesture-volume-control.git
-   cd hand-gesture-volume-control
+   git clone https://github.com/Pushtogithub23/Gesture-Volume-Control-using-MediaPipe-and-OpenCV.git
+   cd Gesture-Volume-Control-using-MediaPipe-and-OpenCV
    ```
 
 2. Install the dependencies:
@@ -176,7 +176,7 @@ cv.destroyAllWindows()
 
 3. Run the script:
    ```bash
-   python hand_volume_control.py
+   python Gesture_Volume_Control.py
    ```
 
 4. Use your webcam to control the system volume by moving your thumb and index finger. Spread them apart to increase the volume, and pinch them to lower it.
